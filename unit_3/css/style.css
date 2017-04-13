@@ -19,4 +19,9 @@ hr {
 #slogan {
 	font-style: italic;
 	text-align: center;
+	font-weight: bold;
+}
+#subslogan {
+	text-align: center;
+	font-weight: bold;
 }
