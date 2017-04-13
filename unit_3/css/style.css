@@ -1,6 +1,5 @@
 body {
 	text-align: left;
-	background: url("image/SA_web.jpg");
 	color: #020202;
 	font-family: Helvetica, sans-serif; 
 }
@@ -20,8 +19,11 @@ hr {
 	font-style: italic;
 	text-align: center;
 	font-weight: bold;
+	font-size: 24px;
+	color: #404040
 }
 #subslogan {
 	text-align: center;
 	font-weight: bold;
+	color: #099922
 }
