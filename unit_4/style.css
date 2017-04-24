@@ -25,14 +25,14 @@ hr {
 	text-align: center;
 	font-weight: bold;
 	font-size: 24px;
-	color: #404040
+	color: #404040;
 }
 #subslogan {
 	text-align: center;
 	font-weight: bold;
-	color: #099922
+	color: #099922;
 }
-IMG.displayed {
+img.displayed {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
