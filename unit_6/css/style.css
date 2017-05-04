@@ -82,6 +82,7 @@ hr {
 	float: right;
 	width: 30%;
 }
+
 #top {
 	background-color: #55B1B6;
 }
@@ -93,11 +94,13 @@ hr {
 	font-size: 24px;
 	color: #404040
 }
+
 #subslogan {
 	text-align: center;
 	font-weight: bold;
 	color: #099922
 }
+
 img.displayed {
 	display: block;
 	margin-left: auto;
