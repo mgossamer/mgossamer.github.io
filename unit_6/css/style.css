@@ -62,7 +62,7 @@ hr {
 }
 
 #two-column {
-	background-color: #FFB7CF;
+	background-color: #508361;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -107,7 +107,9 @@ img.displayed {
 	margin-right: auto
 }
 footer {
-	background-color: #FF957E;
+	font-family: Satisfy, sans-serif;
+	text-align: center;
+	background-color: #0F0A66;
 	border: 1px black solid;
 	padding: 20px;
 }
