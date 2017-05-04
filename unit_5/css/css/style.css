@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=UnifrakturCook:700|Yantramanav');
+* {margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	text-align: left;
+	color: #020202;
+	font-family: Helvetica, sans-serif; 
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside {
+	background-color: #FFC675
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	font-family: 'UnifrakturCook', cursive;
+	color: #00AAFF;
+	text-align: center;
+}
+h2 {
+	color: #0000AA;
+	text-align: center;
+}
+p {
+	font-family: 'Yantramanav', sans-serif;
+}
+hr {
+	width: 500px;
+	text-align: center;
+}
+#two-column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+#slogan {
+	font-style: italic;
+	text-align: center;
+	font-weight: bold;
+	font-size: 24px;
+	color: #404040
+}
+#subslogan {
+	text-align: center;
+	font-weight: bold;
+	color: #099922
+}
+img.displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
