@@ -14,7 +14,7 @@ header {
 	padding: 20px;
 }
 nav {
-	background-color: #E8C66A;
+	background-color: #99C5E0;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -44,10 +44,12 @@ article {
 
 h1 {
 	font-family: 'UnifrakturCook', cursive;
+	font-size: 40px;
 	color: #00AAFF;
 	text-align: center;
 }
 h2 {
+	font-size: 30px;
 	color: #0000AA;
 	text-align: center;
 }
@@ -80,7 +82,9 @@ hr {
 	float: right;
 	width: 30%;
 }
-
+#top {
+	background-color: #55B1B6;
+}
 
 #slogan {
 	font-style: italic;
