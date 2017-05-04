@@ -9,7 +9,7 @@ body {
 	font-family: Helvetica, sans-serif; 
 }
 header {
-	background-color: #FFED74;
+	background-color: #CCCCCC;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -70,7 +70,7 @@ hr {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 62%;
 }
 
 #right {
@@ -78,7 +78,7 @@ hr {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 30%;
 }
 
 
