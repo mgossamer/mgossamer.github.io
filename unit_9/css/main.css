@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=UnifrakturCook:700|Yantramanav');
+* {margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	text-align: left;
+	color: #020202;
+	font-family: Helvetica, sans-serif;
+	font-size: 16px; 
+}
+header {
+	background-color: #D9D5D4;
+	border: 3px black solid;
+	padding: 2%;
+	width: 50%;
+	float: left;
+}
+nav {
+	font-size: 2.5em;
+	text-align: right;
+	background-color: #99C5E0;
+	border: 3px black solid;
+	padding: 5.87% 4% 1.3% 2%;
+	width: 50%;
+	float: right;
+}
+a {
+	background-color: #FFFFFF;
+	text-decoration: none;
+	padding: 20px;
+	border: 1px gray solid;
+}
+section {
+	border: 1px black solid;
+	padding: 2%;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+aside {
+	background-color: #FFC675
+	border: 1px black solid;
+	padding: 1%;
+	font-size: 1.5em;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 1%;
+	font-size: 1.5em;
+}
+
+h1 {
+	font-family: 'UnifrakturCook', cursive;
+	font-size: 4em;
+	color: #00AAFF;
+	text-align: center;
+}
+h2 {
+	font-size: 2em;
+	color: #0000AA;
+	text-align: center;
+}
+h3 {
+	font-family: 'UnifrakturCook', cursive;
+	font-size: 4em;
+	color: #00AAFF;
+	text-align: center;
+	padding: 40px;
+}
+p {
+	font-family: 'Yantramanav', sans-serif;
+}
+
+#top {
+	background-color: #55B1B6;
+	padding: 1%;
+}
+#toptext {
+	font-size: 3em;
+}
+#slogan {
+	text-align: left;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 3em;
+	color: #404040;
+}
+#middle {
+	background: url("https://static.pexels.com/photos/404790/pexels-photo-404790.jpeg");
+	background-color: #D9D5D4;
+	background-size: cover;
+	height: auto;
+}
+.circle {
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+}
+
+/*img.displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto*/
+/*}*/
+footer {
+	font-family: 'Satisfy', sans-serif;
+	font-size: 2.5em;
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #55B1B6;
+	border: 1px black solid;
+	padding: 2%;
+}
+
+@media screen only and (max-width: 480px) {
+	img {
+		width: 230px;
+	}
+}

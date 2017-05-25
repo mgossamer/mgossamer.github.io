@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=UnifrakturCook:700|Yantramanav');
+* {margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	text-align: left;
+	color: #020202;
+	font-family: Helvetica, sans-serif;
+	font-size: 16px; 
+}
+header {
+	background-color: #D9D5D4;
+	border: 1px black solid;
+	padding: 2%;
+}
+nav {
+	background-color: #99C5E0;
+	border: 1px black solid;
+	padding: 1.5%;
+	width: 50%;
+	float: right;
+	height: 40%;
+}
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 2%;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+aside {
+	background-color: #FFC675
+	border: 1px black solid;
+	padding: 1%;
+	font-size: 1.5em;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 1%;
+	font-size: 1.5em;
+}
+
+h1 {
+	font-family: 'UnifrakturCook', cursive;
+	font-size: 4em;
+	color: #00AAFF;
+	text-align: center;
+}
+h2 {
+	font-size: 1.5em;
+	color: #0000AA;
+	text-align: center;
+}
+p {
+	font-family: 'Yantramanav', sans-serif;
+}
+hr {
+	width: 100%;
+	text-align: center;
+}
+
+#two-column {
+	background-color: #D9D5D4;
+	border: 1px black solid;
+	padding: 1.5%;
+}
+
+#left {
+	background-color: #69BAEC;
+	border: 1px black solid;
+	padding: 1.5%;
+	float: left;
+	width: 62%;
+}
+
+#right {
+	background-color: #3594CE;
+	border: 1px black solid;
+	padding: 1%;
+	float: right;
+	width: 30%;
+}
+
+#top {
+	background-color: #55B1B6;
+	width: 50%;
+}
+
+#slogan {
+	font-style: italic;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.6em;
+	color: #404040
+}
+
+#subslogan {
+	text-align: center;
+	font-weight: bold;
+	color: #099922;
+	font-size: 1.5em;
+}
+
+img.displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+footer {
+	font-family: 'Satisfy', sans-serif;
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #0F0A66;
+	border: 1px black solid;
+	padding: 1.5%;
+}
+
+@media screen only and (max-width: 480px) {
+	img {
+		width: 230px;
+	}
+}
